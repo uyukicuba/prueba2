@@ -1,0 +1,1397 @@
+idciudad,Ciudad,idsexo,sexo,edad,Cantidad
+4,Oruro,2,Femenino,94,11
+7,Santa Cruz,1,Masculino,80,93
+4,Oruro,2,Femenino,88,33
+7,Santa Cruz,2,Femenino,21,75
+6,Tarija,1,Masculino,26,370
+3,Cochabamba,2,Femenino,103,1
+7,Santa Cruz,1,Masculino,54,445
+5,Potosí,1,Masculino,22,52
+4,Oruro,2,Femenino,91,23
+2,La Paz,2,Femenino,116,1
+7,Santa Cruz,1,Masculino,57,350
+6,Tarija,1,Masculino,23,220
+6,Tarija,1,Masculino,32,306
+5,Potosí,1,Masculino,25,353
+7,Santa Cruz,1,Masculino,60,3
+7,Santa Cruz,2,Femenino,27,1180
+6,Tarija,1,Masculino,29,339
+8,Beni,1,Masculino,29,285
+4,Oruro,2,Femenino,97,7
+5,Potosí,1,Masculino,28,280
+6,Tarija,1,Masculino,55,96
+8,Beni,1,Masculino,26,328
+7,Santa Cruz,1,Masculino,83,68
+5,Potosí,1,Masculino,31,224
+7,Santa Cruz,2,Femenino,50,391
+7,Santa Cruz,1,Masculino,86,34
+7,Santa Cruz,2,Femenino,24,1108
+9,Pando,1,Masculino,29,90
+9,Pando,2,Femenino,92,2
+7,Santa Cruz,1,Masculino,89,55
+1,Chuquisaca,2,Femenino,39,76
+8,Beni,2,Femenino,95,4
+7,Santa Cruz,2,Femenino,59,228
+2,La Paz,2,Femenino,58,175
+5,Potosí,2,Femenino,91,105
+7,Santa Cruz,2,Femenino,79,57
+6,Tarija,1,Masculino,61,1
+8,Beni,2,Femenino,89,20
+7,Santa Cruz,2,Femenino,53,329
+7,Santa Cruz,1,Masculino,112,1
+1,Chuquisaca,1,Masculino,72,27
+6,Tarija,1,Masculino,84,48
+8,Beni,2,Femenino,92,13
+2,La Paz,2,Femenino,81,142
+6,Tarija,2,Femenino,25,259
+1,Chuquisaca,1,Masculino,75,35
+7,Santa Cruz,1,Masculino,115,1
+6,Tarija,1,Masculino,58,84
+6,Tarija,2,Femenino,22,26
+7,Santa Cruz,2,Femenino,56,266
+9,Pando,2,Femenino,89,5
+2,La Paz,2,Femenino,55,186
+6,Tarija,1,Masculino,90,41
+1,Chuquisaca,1,Masculino,46,72
+6,Tarija,2,Femenino,31,216
+3,Cochabamba,1,Masculino,40,376
+9,Pando,2,Femenino,95,3
+2,La Paz,2,Femenino,110,1
+6,Tarija,2,Femenino,28,202
+2,La Paz,2,Femenino,84,153
+3,Cochabamba,1,Masculino,37,498
+7,Santa Cruz,2,Femenino,82,109
+1,Chuquisaca,1,Masculino,43,96
+4,Oruro,1,Masculino,28,165
+2,La Paz,2,Femenino,87,143
+7,Santa Cruz,2,Femenino,88,79
+6,Tarija,2,Femenino,54,60
+6,Tarija,1,Masculino,87,31
+1,Chuquisaca,1,Masculino,40,96
+7,Santa Cruz,2,Femenino,85,76
+5,Potosí,2,Femenino,59,49
+6,Tarija,1,Masculino,93,21
+2,La Paz,1,Masculino,56,180
+4,Oruro,1,Masculino,31,182
+9,Pando,1,Masculino,90,1
+4,Oruro,1,Masculino,34,129
+1,Chuquisaca,2,Femenino,71,24
+8,Beni,2,Femenino,54,56
+9,Pando,2,Femenino,31,33
+3,Cochabamba,1,Masculino,43,318
+8,Beni,1,Masculino,96,2
+2,La Paz,1,Masculino,53,222
+9,Pando,2,Femenino,34,23
+8,Beni,1,Masculino,90,13
+5,Potosí,1,Masculino,92,38
+7,Santa Cruz,2,Femenino,111,1
+5,Potosí,1,Masculino,89,77
+8,Beni,2,Femenino,57,45
+8,Beni,1,Masculino,93,4
+1,Chuquisaca,2,Femenino,74,32
+5,Potosí,2,Femenino,56,74
+4,Oruro,1,Masculino,37,90
+7,Santa Cruz,2,Femenino,114,1
+6,Tarija,2,Femenino,57,61
+9,Pando,2,Femenino,37,32
+5,Potosí,2,Femenino,53,74
+8,Beni,2,Femenino,34,144
+2,La Paz,2,Femenino,23,368
+2,La Paz,1,Masculino,59,170
+6,Tarija,2,Femenino,83,75
+2,La Paz,2,Femenino,29,592
+2,La Paz,1,Masculino,88,70
+6,Tarija,2,Femenino,112,1
+1,Chuquisaca,1,Masculino,98,3
+2,La Paz,1,Masculino,85,75
+3,Cochabamba,1,Masculino,75,46
+6,Tarija,2,Femenino,92,47
+8,Beni,2,Femenino,86,15
+1,Chuquisaca,2,Femenino,42,94
+2,La Paz,2,Femenino,49,209
+3,Cochabamba,1,Masculino,72,53
+9,Pando,1,Masculino,99,1
+3,Cochabamba,2,Femenino,36,400
+2,La Paz,1,Masculino,82,85
+1,Chuquisaca,1,Masculino,78,31
+5,Potosí,2,Femenino,88,120
+4,Oruro,2,Femenino,27,93
+5,Potosí,2,Femenino,82,101
+1,Chuquisaca,2,Femenino,45,52
+2,La Paz,2,Femenino,52,195
+6,Tarija,2,Femenino,89,83
+3,Cochabamba,2,Femenino,39,337
+6,Tarija,2,Femenino,86,55
+5,Potosí,2,Femenino,89,158
+1,Chuquisaca,1,Masculino,34,154
+3,Cochabamba,1,Masculino,76,57
+9,Pando,1,Masculino,103,1
+5,Potosí,2,Femenino,86,78
+6,Tarija,1,Masculino,43,175
+4,Oruro,2,Femenino,31,126
+9,Pando,1,Masculino,100,2
+6,Tarija,1,Masculino,46,151
+3,Cochabamba,1,Masculino,102,2
+9,Pando,1,Masculino,97,1
+2,La Paz,1,Masculino,49,253
+7,Santa Cruz,2,Femenino,84,79
+1,Chuquisaca,1,Masculino,57,44
+3,Cochabamba,2,Femenino,40,298
+4,Oruro,1,Masculino,41,61
+3,Cochabamba,1,Masculino,99,2
+7,Santa Cruz,2,Femenino,81,94
+2,La Paz,1,Masculino,46,279
+2,La Paz,1,Masculino,23,479
+9,Pando,2,Femenino,41,22
+3,Cochabamba,2,Femenino,43,258
+1,Chuquisaca,1,Masculino,37,98
+3,Cochabamba,1,Masculino,79,50
+2,La Paz,1,Masculino,26,1009
+3,Cochabamba,2,Femenino,46,192
+3,Cochabamba,1,Masculino,105,1
+7,Santa Cruz,2,Femenino,107,1
+4,Oruro,1,Masculino,93,8
+6,Tarija,1,Masculino,49,100
+2,La Paz,1,Masculino,55,177
+4,Oruro,2,Femenino,37,72
+4,Oruro,1,Masculino,96,5
+9,Pando,2,Femenino,93,2
+5,Potosí,2,Femenino,92,80
+7,Santa Cruz,2,Femenino,110,1
+6,Tarija,1,Masculino,75,56
+2,La Paz,1,Masculino,52,234
+4,Oruro,2,Femenino,34,70
+1,Chuquisaca,1,Masculino,31,240
+4,Oruro,1,Masculino,70,3
+6,Tarija,1,Masculino,72,41
+2,La Paz,1,Masculino,78,62
+1,Chuquisaca,1,Masculino,28,297
+3,Cochabamba,2,Femenino,72,75
+9,Pando,2,Femenino,70,1
+6,Tarija,1,Masculino,52,114
+4,Oruro,2,Femenino,40,54
+5,Potosí,2,Femenino,95,41
+6,Tarija,1,Masculino,78,61
+5,Potosí,2,Femenino,28,188
+1,Chuquisaca,1,Masculino,95,11
+3,Cochabamba,2,Femenino,78,125
+6,Tarija,2,Femenino,48,74
+9,Pando,1,Masculino,42,49
+1,Chuquisaca,2,Femenino,56,55
+5,Potosí,1,Masculino,87,51
+1,Chuquisaca,1,Masculino,92,15
+6,Tarija,1,Masculino,81,73
+6,Tarija,2,Femenino,45,113
+4,Oruro,2,Femenino,63,1
+8,Beni,2,Femenino,72,12
+3,Cochabamba,2,Femenino,98,28
+5,Potosí,1,Masculino,90,64
+1,Chuquisaca,2,Femenino,59,44
+6,Tarija,2,Femenino,42,89
+1,Chuquisaca,1,Masculino,89,37
+8,Beni,2,Femenino,75,10
+4,Oruro,1,Masculino,102,2
+3,Cochabamba,2,Femenino,101,8
+8,Beni,1,Masculino,105,1
+1,Chuquisaca,2,Femenino,33,143
+6,Tarija,1,Masculino,104,1
+5,Potosí,2,Femenino,31,154
+5,Potosí,2,Femenino,34,133
+3,Cochabamba,2,Femenino,75,87
+1,Chuquisaca,2,Femenino,36,108
+4,Oruro,2,Femenino,95,9
+9,Pando,2,Femenino,32,36
+9,Pando,1,Masculino,71,1
+1,Chuquisaca,1,Masculino,60,2
+6,Tarija,2,Femenino,77,86
+5,Potosí,2,Femenino,57,81
+1,Chuquisaca,2,Femenino,27,198
+1,Chuquisaca,1,Masculino,63,1
+6,Tarija,2,Femenino,74,91
+9,Pando,2,Femenino,35,36
+9,Pando,2,Femenino,38,28
+5,Potosí,1,Masculino,96,17
+1,Chuquisaca,2,Femenino,30,218
+5,Potosí,1,Masculino,93,31
+6,Tarija,2,Femenino,71,49
+8,Beni,2,Femenino,101,1
+4,Oruro,2,Femenino,92,15
+3,Cochabamba,2,Femenino,104,3
+6,Tarija,2,Femenino,51,69
+8,Beni,2,Femenino,98,6
+3,Cochabamba,2,Femenino,107,1
+6,Tarija,2,Femenino,80,113
+8,Beni,2,Femenino,37,105
+2,La Paz,2,Femenino,106,1
+5,Potosí,1,Masculino,29,275
+1,Chuquisaca,2,Femenino,94,28
+2,La Paz,2,Femenino,80,157
+7,Santa Cruz,1,Masculino,47,595
+4,Oruro,2,Femenino,98,4
+1,Chuquisaca,2,Femenino,91,56
+2,La Paz,2,Femenino,83,143
+8,Beni,1,Masculino,73,11
+4,Oruro,2,Femenino,101,5
+7,Santa Cruz,1,Masculino,21,104
+5,Potosí,1,Masculino,32,211
+7,Santa Cruz,1,Masculino,24,1462
+8,Beni,1,Masculino,70,10
+7,Santa Cruz,1,Masculino,76,68
+8,Beni,2,Femenino,40,90
+8,Beni,1,Masculino,76,10
+2,La Paz,2,Femenino,109,2
+9,Pando,1,Masculino,39,57
+5,Potosí,1,Masculino,58,76
+8,Beni,2,Femenino,43,85
+5,Potosí,2,Femenino,25,229
+7,Santa Cruz,1,Masculino,50,513
+7,Santa Cruz,2,Femenino,44,460
+7,Santa Cruz,1,Masculino,74,80
+3,Cochabamba,2,Femenino,80,160
+7,Santa Cruz,1,Masculino,77,67
+4,Oruro,2,Femenino,48,37
+3,Cochabamba,2,Femenino,83,142
+7,Santa Cruz,1,Masculino,100,10
+7,Santa Cruz,2,Femenino,41,617
+8,Beni,1,Masculino,23,195
+4,Oruro,2,Femenino,71,16
+4,Oruro,2,Femenino,74,7
+7,Santa Cruz,2,Femenino,38,637
+7,Santa Cruz,1,Masculino,106,2
+6,Tarija,1,Masculino,35,214
+8,Beni,1,Masculino,49,104
+4,Oruro,2,Femenino,77,19
+4,Oruro,2,Femenino,100,3
+7,Santa Cruz,2,Femenino,47,404
+8,Beni,1,Masculino,46,126
+8,Beni,1,Masculino,52,100
+7,Santa Cruz,2,Femenino,70,63
+7,Santa Cruz,1,Masculino,103,1
+7,Santa Cruz,2,Femenino,76,68
+9,Pando,2,Femenino,46,12
+2,La Paz,2,Femenino,75,98
+1,Chuquisaca,1,Masculino,49,72
+1,Chuquisaca,1,Masculino,52,72
+7,Santa Cruz,2,Femenino,73,65
+9,Pando,2,Femenino,49,10
+5,Potosí,2,Femenino,71,46
+9,Pando,1,Masculino,102,1
+1,Chuquisaca,1,Masculino,29,237
+2,La Paz,2,Femenino,78,111
+7,Santa Cruz,2,Femenino,99,5
+4,Oruro,2,Femenino,103,2
+6,Tarija,1,Masculino,41,182
+2,La Paz,2,Femenino,98,28
+2,La Paz,2,Femenino,101,8
+5,Potosí,2,Femenino,94,40
+4,Oruro,2,Femenino,106,1
+9,Pando,2,Femenino,72,2
+6,Tarija,1,Masculino,38,196
+2,La Paz,2,Femenino,104,5
+6,Tarija,2,Femenino,34,157
+2,La Paz,2,Femenino,107,2
+7,Santa Cruz,2,Femenino,105,1
+9,Pando,2,Femenino,78,6
+6,Tarija,1,Masculino,44,148
+7,Santa Cruz,2,Femenino,108,1
+5,Potosí,2,Femenino,103,3
+5,Potosí,2,Femenino,97,16
+1,Chuquisaca,1,Masculino,26,331
+5,Potosí,2,Femenino,100,15
+1,Chuquisaca,1,Masculino,23,162
+7,Santa Cruz,2,Femenino,102,5
+9,Pando,2,Femenino,75,7
+6,Tarija,1,Masculino,70,28
+5,Potosí,1,Masculino,72,48
+2,La Paz,1,Masculino,102,4
+1,Chuquisaca,2,Femenino,54,44
+3,Cochabamba,1,Masculino,26,900
+9,Pando,1,Masculino,73,4
+2,La Paz,2,Femenino,43,263
+9,Pando,1,Masculino,70,1
+5,Potosí,2,Femenino,39,97
+6,Tarija,1,Masculino,96,6
+2,La Paz,1,Masculino,99,10
+6,Tarija,2,Femenino,43,81
+3,Cochabamba,1,Masculino,23,434
+1,Chuquisaca,2,Femenino,28,219
+8,Beni,2,Femenino,74,13
+5,Potosí,2,Femenino,36,129
+5,Potosí,1,Masculino,95,23
+2,La Paz,1,Masculino,79,65
+6,Tarija,1,Masculino,99,1
+8,Beni,2,Femenino,77,6
+6,Tarija,1,Masculino,73,55
+9,Pando,1,Masculino,50,25
+1,Chuquisaca,1,Masculino,90,41
+1,Chuquisaca,2,Femenino,48,48
+6,Tarija,2,Femenino,40,101
+9,Pando,1,Masculino,47,34
+2,La Paz,1,Masculino,76,60
+2,La Paz,2,Femenino,40,304
+3,Cochabamba,1,Masculino,46,265
+1,Chuquisaca,1,Masculino,84,34
+3,Cochabamba,1,Masculino,49,227
+8,Beni,2,Femenino,80,9
+1,Chuquisaca,2,Femenino,51,50
+1,Chuquisaca,1,Masculino,87,19
+6,Tarija,2,Femenino,37,146
+5,Potosí,2,Femenino,33,144
+1,Chuquisaca,2,Femenino,22,44
+1,Chuquisaca,1,Masculino,81,47
+8,Beni,2,Femenino,83,14
+5,Potosí,1,Masculino,101,5
+5,Potosí,1,Masculino,104,1
+1,Chuquisaca,2,Femenino,25,251
+6,Tarija,1,Masculino,105,1
+5,Potosí,2,Femenino,42,105
+2,La Paz,2,Femenino,46,197
+3,Cochabamba,1,Masculino,55,178
+1,Chuquisaca,1,Masculino,58,61
+3,Cochabamba,2,Femenino,22,47
+9,Pando,2,Femenino,40,12
+3,Cochabamba,1,Masculino,52,180
+6,Tarija,2,Femenino,72,100
+4,Oruro,1,Masculino,40,84
+3,Cochabamba,1,Masculino,78,59
+4,Oruro,1,Masculino,43,70
+5,Potosí,2,Femenino,62,1
+2,La Paz,2,Femenino,72,65
+9,Pando,1,Masculino,79,4
+9,Pando,1,Masculino,76,4
+2,La Paz,1,Masculino,105,1
+5,Potosí,2,Femenino,65,1
+9,Pando,2,Femenino,43,17
+6,Tarija,1,Masculino,102,1
+5,Potosí,1,Masculino,98,10
+1,Chuquisaca,1,Masculino,55,66
+7,Santa Cruz,1,Masculino,42,802
+2,La Paz,1,Masculino,41,391
+4,Oruro,1,Masculino,46,48
+6,Tarija,2,Femenino,50,75
+2,La Paz,2,Femenino,30,541
+1,Chuquisaca,2,Femenino,38,86
+2,La Paz,2,Femenino,27,692
+2,La Paz,1,Masculino,86,57
+1,Chuquisaca,1,Masculino,97,2
+9,Pando,1,Masculino,57,10
+1,Chuquisaca,2,Femenino,41,72
+1,Chuquisaca,1,Masculino,94,6
+5,Potosí,2,Femenino,26,216
+5,Potosí,1,Masculino,59,69
+3,Cochabamba,1,Masculino,39,432
+4,Oruro,1,Masculino,24,189
+8,Beni,2,Femenino,90,17
+3,Cochabamba,1,Masculino,36,573
+6,Tarija,2,Femenino,27,246
+2,La Paz,2,Femenino,53,196
+5,Potosí,2,Femenino,23,114
+6,Tarija,1,Masculino,83,59
+9,Pando,2,Femenino,24,56
+1,Chuquisaca,1,Masculino,74,25
+5,Potosí,1,Masculino,79,62
+1,Chuquisaca,1,Masculino,100,2
+6,Tarija,1,Masculino,89,45
+6,Tarija,2,Femenino,53,69
+4,Oruro,1,Masculino,27,171
+3,Cochabamba,1,Masculino,33,706
+5,Potosí,1,Masculino,85,63
+9,Pando,1,Masculino,60,1
+5,Potosí,1,Masculino,82,84
+6,Tarija,1,Masculino,86,46
+8,Beni,1,Masculino,100,3
+2,La Paz,1,Masculino,89,71
+5,Potosí,2,Femenino,49,76
+9,Pando,2,Femenino,30,38
+9,Pando,1,Masculino,89,3
+5,Potosí,1,Masculino,88,58
+8,Beni,2,Femenino,96,6
+3,Cochabamba,2,Femenino,32,616
+4,Oruro,1,Masculino,33,157
+6,Tarija,2,Femenino,79,84
+2,La Paz,2,Femenino,59,166
+9,Pando,1,Masculino,86,1
+9,Pando,2,Femenino,33,35
+5,Potosí,2,Femenino,55,93
+2,La Paz,2,Femenino,62,1
+5,Potosí,2,Femenino,52,85
+3,Cochabamba,1,Masculino,65,1
+2,La Paz,2,Femenino,82,149
+8,Beni,2,Femenino,93,8
+6,Tarija,2,Femenino,56,65
+5,Potosí,2,Femenino,78,93
+3,Cochabamba,1,Masculino,62,1
+2,La Paz,1,Masculino,92,46
+2,La Paz,2,Femenino,56,169
+1,Chuquisaca,1,Masculino,68,1
+1,Chuquisaca,1,Masculino,71,26
+8,Beni,2,Femenino,99,5
+4,Oruro,1,Masculino,30,172
+1,Chuquisaca,2,Femenino,35,124
+6,Tarija,2,Femenino,82,90
+9,Pando,2,Femenino,27,49
+2,La Paz,1,Masculino,28,866
+4,Oruro,1,Masculino,62,1
+7,Santa Cruz,1,Masculino,29,1375
+3,Cochabamba,1,Masculino,91,33
+1,Chuquisaca,2,Femenino,96,13
+9,Pando,1,Masculino,25,119
+2,La Paz,1,Masculino,54,192
+5,Potosí,1,Masculino,24,285
+8,Beni,1,Masculino,91,9
+2,La Paz,1,Masculino,31,786
+3,Cochabamba,2,Femenino,35,462
+5,Potosí,1,Masculino,27,330
+7,Santa Cruz,1,Masculino,32,1316
+3,Cochabamba,1,Masculino,71,43
+3,Cochabamba,1,Masculino,97,8
+3,Cochabamba,2,Femenino,38,378
+6,Tarija,2,Femenino,88,66
+8,Beni,2,Femenino,29,150
+4,Oruro,1,Masculino,56,34
+8,Beni,2,Femenino,32,139
+4,Oruro,1,Masculino,59,21
+4,Oruro,2,Femenino,23,70
+6,Tarija,2,Femenino,85,51
+7,Santa Cruz,1,Masculino,26,1619
+3,Cochabamba,1,Masculino,94,23
+4,Oruro,2,Femenino,26,132
+1,Chuquisaca,2,Femenino,99,5
+9,Pando,1,Masculino,28,124
+7,Santa Cruz,1,Masculino,58,366
+2,La Paz,1,Masculino,57,198
+5,Potosí,1,Masculino,56,71
+8,Beni,1,Masculino,94,8
+8,Beni,2,Femenino,38,99
+1,Chuquisaca,2,Femenino,70,28
+8,Beni,1,Masculino,97,6
+3,Cochabamba,2,Femenino,64,1
+7,Santa Cruz,1,Masculino,61,2
+2,La Paz,1,Masculino,83,74
+1,Chuquisaca,2,Femenino,73,34
+4,Oruro,2,Femenino,32,83
+1,Chuquisaca,2,Femenino,93,30
+3,Cochabamba,1,Masculino,100,10
+8,Beni,2,Femenino,58,46
+4,Oruro,1,Masculino,85,7
+5,Potosí,1,Masculino,50,88
+9,Pando,1,Masculino,34,87
+2,La Paz,1,Masculino,63,1
+4,Oruro,1,Masculino,88,6
+4,Oruro,2,Femenino,29,95
+5,Potosí,1,Masculino,53,62
+7,Santa Cruz,1,Masculino,55,464
+7,Santa Cruz,2,Femenino,25,1290
+4,Oruro,2,Femenino,55,26
+9,Pando,1,Masculino,31,99
+8,Beni,2,Femenino,35,117
+2,La Paz,2,Femenino,24,703
+4,Oruro,1,Masculino,91,4
+8,Beni,1,Masculino,33,247
+4,Oruro,1,Masculino,94,4
+3,Cochabamba,2,Femenino,93,74
+7,Santa Cruz,1,Masculino,90,33
+7,Santa Cruz,2,Femenino,28,1119
+5,Potosí,1,Masculino,102,2
+4,Oruro,1,Masculino,47,67
+5,Potosí,2,Femenino,43,92
+7,Santa Cruz,2,Femenino,104,2
+5,Potosí,2,Femenino,46,68
+6,Tarija,2,Femenino,47,94
+8,Beni,1,Masculino,80,16
+9,Pando,2,Femenino,47,15
+3,Cochabamba,1,Masculino,59,109
+8,Beni,2,Femenino,70,8
+2,La Paz,2,Femenino,33,524
+5,Potosí,1,Masculino,105,1
+1,Chuquisaca,2,Femenino,58,59
+8,Beni,1,Masculino,106,3
+3,Cochabamba,1,Masculino,56,170
+4,Oruro,1,Masculino,21,29
+8,Beni,2,Femenino,44,84
+9,Pando,1,Masculino,83,6
+3,Cochabamba,2,Femenino,23,366
+6,Tarija,2,Femenino,73,85
+9,Pando,2,Femenino,21,8
+9,Pando,1,Masculino,80,10
+8,Beni,2,Femenino,47,66
+6,Tarija,2,Femenino,70,35
+9,Pando,2,Femenino,44,14
+7,Santa Cruz,2,Femenino,101,7
+2,La Paz,1,Masculino,43,370
+1,Chuquisaca,2,Femenino,84,54
+9,Pando,1,Masculino,77,2
+4,Oruro,1,Masculino,44,49
+2,La Paz,1,Masculino,72,53
+5,Potosí,2,Femenino,75,91
+3,Cochabamba,1,Masculino,88,51
+9,Pando,2,Femenino,76,5
+2,La Paz,2,Femenino,42,285
+1,Chuquisaca,2,Femenino,55,59
+3,Cochabamba,2,Femenino,49,221
+9,Pando,2,Femenino,50,20
+3,Cochabamba,1,Masculino,85,49
+6,Tarija,2,Femenino,76,92
+1,Chuquisaca,1,Masculino,91,22
+4,Oruro,1,Masculino,50,47
+5,Potosí,1,Masculino,108,1
+5,Potosí,2,Femenino,72,68
+2,La Paz,1,Masculino,98,14
+4,Oruro,1,Masculino,53,37
+8,Beni,2,Femenino,73,10
+3,Cochabamba,2,Femenino,52,170
+1,Chuquisaca,2,Femenino,29,180
+9,Pando,2,Femenino,53,12
+2,La Paz,1,Masculino,95,23
+1,Chuquisaca,1,Masculino,88,31
+8,Beni,2,Femenino,76,12
+5,Potosí,2,Femenino,98,13
+6,Tarija,2,Femenino,102,1
+2,La Paz,2,Femenino,36,372
+3,Cochabamba,1,Masculino,82,64
+1,Chuquisaca,2,Femenino,32,135
+3,Cochabamba,2,Femenino,26,675
+9,Pando,2,Femenino,73,3
+4,Oruro,1,Masculino,73,8
+2,La Paz,1,Masculino,75,68
+4,Oruro,1,Masculino,76,7
+8,Beni,2,Femenino,50,69
+3,Cochabamba,2,Femenino,29,673
+1,Chuquisaca,2,Femenino,52,53
+2,La Paz,2,Femenino,39,353
+6,Tarija,2,Femenino,99,5
+8,Beni,1,Masculino,48,134
+5,Potosí,1,Masculino,70,28
+4,Oruro,1,Masculino,79,8
+8,Beni,1,Masculino,45,131
+4,Oruro,1,Masculino,82,17
+4,Oruro,2,Femenino,46,36
+3,Cochabamba,2,Femenino,81,171
+9,Pando,1,Masculino,22,35
+3,Cochabamba,1,Masculino,117,1
+5,Potosí,1,Masculino,44,108
+2,La Paz,1,Masculino,34,668
+4,Oruro,2,Femenino,43,46
+5,Potosí,1,Masculino,47,108
+3,Cochabamba,2,Femenino,55,130
+8,Beni,1,Masculino,42,149
+3,Cochabamba,2,Femenino,58,98
+4,Oruro,1,Masculino,105,1
+9,Pando,1,Masculino,45,42
+9,Pando,1,Masculino,74,2
+5,Potosí,1,Masculino,73,43
+2,La Paz,1,Masculino,40,442
+4,Oruro,2,Femenino,52,24
+5,Potosí,1,Masculino,76,52
+5,Potosí,2,Femenino,40,75
+9,Pando,1,Masculino,54,21
+2,La Paz,1,Masculino,37,512
+8,Beni,2,Femenino,41,96
+4,Oruro,2,Femenino,49,37
+8,Beni,1,Masculino,77,9
+9,Pando,1,Masculino,51,27
+7,Santa Cruz,1,Masculino,35,1087
+3,Cochabamba,2,Femenino,84,136
+1,Chuquisaca,2,Femenino,90,92
+8,Beni,1,Masculino,71,12
+8,Beni,1,Masculino,74,12
+3,Cochabamba,2,Femenino,87,109
+5,Potosí,2,Femenino,37,97
+1,Chuquisaca,2,Femenino,87,39
+3,Cochabamba,2,Femenino,110,1
+9,Pando,1,Masculino,48,25
+7,Santa Cruz,1,Masculino,38,995
+8,Beni,1,Masculino,51,125
+4,Oruro,2,Femenino,75,20
+4,Oruro,2,Femenino,72,8
+7,Santa Cruz,1,Masculino,41,853
+5,Potosí,1,Masculino,99,5
+7,Santa Cruz,1,Masculino,44,742
+4,Oruro,2,Femenino,78,14
+4,Oruro,2,Femenino,81,22
+2,La Paz,2,Femenino,100,21
+1,Chuquisaca,1,Masculino,27,299
+7,Santa Cruz,1,Masculino,70,56
+2,La Paz,2,Femenino,103,7
+1,Chuquisaca,1,Masculino,24,326
+5,Potosí,1,Masculino,41,118
+7,Santa Cruz,1,Masculino,73,60
+2,La Paz,2,Femenino,76,98
+2,La Paz,2,Femenino,73,80
+5,Potosí,1,Masculino,39,147
+5,Potosí,2,Femenino,29,172
+9,Pando,1,Masculino,40,71
+9,Pando,1,Masculino,37,53
+8,Beni,1,Masculino,40,192
+8,Beni,1,Masculino,43,134
+2,La Paz,2,Femenino,50,217
+8,Beni,1,Masculino,37,181
+2,La Paz,1,Masculino,106,2
+8,Beni,2,Femenino,36,107
+1,Chuquisaca,2,Femenino,98,9
+7,Santa Cruz,1,Masculino,43,822
+9,Pando,1,Masculino,43,35
+3,Cochabamba,1,Masculino,45,270
+3,Cochabamba,1,Masculino,42,327
+1,Chuquisaca,2,Femenino,95,23
+5,Potosí,1,Masculino,91,46
+7,Santa Cruz,1,Masculino,46,645
+2,La Paz,2,Femenino,79,103
+3,Cochabamba,1,Masculino,22,132
+1,Chuquisaca,2,Femenino,92,51
+8,Beni,1,Masculino,72,14
+5,Potosí,2,Femenino,35,120
+5,Potosí,1,Masculino,94,32
+5,Potosí,2,Femenino,32,143
+8,Beni,2,Femenino,33,137
+7,Santa Cruz,1,Masculino,23,825
+9,Pando,1,Masculino,46,36
+2,La Paz,2,Femenino,102,11
+3,Cochabamba,1,Masculino,74,57
+7,Santa Cruz,1,Masculino,75,60
+4,Oruro,1,Masculino,36,107
+2,La Paz,1,Masculino,51,230
+1,Chuquisaca,1,Masculino,32,219
+7,Santa Cruz,1,Masculino,49,553
+4,Oruro,1,Masculino,39,88
+2,La Paz,1,Masculino,48,296
+7,Santa Cruz,1,Masculino,52,470
+3,Cochabamba,1,Masculino,51,218
+4,Oruro,1,Masculino,42,84
+6,Tarija,1,Masculino,21,44
+2,La Paz,1,Masculino,74,65
+3,Cochabamba,1,Masculino,48,228
+7,Santa Cruz,2,Femenino,45,479
+2,La Paz,1,Masculino,103,4
+6,Tarija,1,Masculino,47,143
+2,La Paz,2,Femenino,44,248
+4,Oruro,2,Femenino,35,77
+3,Cochabamba,2,Femenino,47,198
+6,Tarija,1,Masculino,50,130
+8,Beni,1,Masculino,34,217
+7,Santa Cruz,2,Femenino,42,573
+7,Santa Cruz,1,Masculino,78,64
+5,Potosí,1,Masculino,30,267
+2,La Paz,2,Femenino,47,236
+3,Cochabamba,2,Femenino,21,42
+7,Santa Cruz,2,Femenino,22,124
+7,Santa Cruz,1,Masculino,81,81
+2,La Paz,2,Femenino,21,40
+4,Oruro,1,Masculino,71,9
+2,La Paz,1,Masculino,80,82
+6,Tarija,1,Masculino,24,372
+5,Potosí,1,Masculino,33,210
+3,Cochabamba,1,Masculino,83,62
+3,Cochabamba,2,Femenino,41,311
+2,La Paz,1,Masculino,77,53
+3,Cochabamba,1,Masculino,77,53
+2,La Paz,2,Femenino,41,318
+3,Cochabamba,2,Femenino,44,255
+3,Cochabamba,1,Masculino,80,71
+4,Oruro,1,Masculino,45,47
+5,Potosí,1,Masculino,36,150
+7,Santa Cruz,1,Masculino,104,1
+6,Tarija,1,Masculino,79,78
+1,Chuquisaca,1,Masculino,67,1
+7,Santa Cruz,2,Femenino,74,65
+3,Cochabamba,1,Masculino,106,1
+4,Oruro,2,Femenino,38,55
+7,Santa Cruz,2,Femenino,48,430
+3,Cochabamba,2,Femenino,50,187
+6,Tarija,1,Masculino,76,67
+7,Santa Cruz,1,Masculino,110,3
+9,Pando,2,Femenino,97,1
+6,Tarija,1,Masculino,56,93
+7,Santa Cruz,2,Femenino,51,322
+1,Chuquisaca,2,Femenino,31,170
+5,Potosí,2,Femenino,99,15
+9,Pando,2,Femenino,71,1
+4,Oruro,1,Masculino,74,9
+3,Cochabamba,2,Femenino,73,75
+8,Beni,2,Femenino,100,2
+1,Chuquisaca,2,Femenino,34,122
+6,Tarija,1,Masculino,53,94
+1,Chuquisaca,1,Masculino,70,14
+4,Oruro,2,Femenino,41,46
+3,Cochabamba,2,Femenino,76,108
+9,Pando,2,Femenino,74,8
+5,Potosí,2,Femenino,96,24
+6,Tarija,1,Masculino,108,1
+6,Tarija,2,Femenino,49,77
+3,Cochabamba,2,Femenino,79,115
+1,Chuquisaca,1,Masculino,35,165
+6,Tarija,2,Femenino,46,78
+7,Santa Cruz,2,Femenino,80,125
+3,Cochabamba,2,Femenino,82,143
+4,Oruro,1,Masculino,100,2
+7,Santa Cruz,2,Femenino,77,68
+6,Tarija,1,Masculino,85,38
+1,Chuquisaca,1,Masculino,41,96
+4,Oruro,2,Femenino,44,30
+3,Cochabamba,2,Femenino,102,2
+2,La Paz,1,Masculino,22,136
+6,Tarija,1,Masculino,82,48
+6,Tarija,2,Femenino,23,107
+7,Santa Cruz,2,Femenino,103,3
+1,Chuquisaca,1,Masculino,38,118
+2,La Paz,1,Masculino,45,303
+4,Oruro,2,Femenino,70,7
+3,Cochabamba,2,Femenino,105,2
+4,Oruro,1,Masculino,106,1
+2,La Paz,1,Masculino,42,402
+5,Potosí,2,Femenino,106,1
+4,Oruro,2,Femenino,51,24
+1,Chuquisaca,1,Masculino,80,46
+3,Cochabamba,2,Femenino,63,1
+8,Beni,2,Femenino,84,15
+2,La Paz,1,Masculino,29,777
+6,Tarija,2,Femenino,33,171
+7,Santa Cruz,2,Femenino,58,262
+7,Santa Cruz,2,Femenino,64,1
+1,Chuquisaca,1,Masculino,77,22
+8,Beni,2,Femenino,87,11
+6,Tarija,2,Femenino,30,219
+4,Oruro,1,Masculino,84,15
+7,Santa Cruz,1,Masculino,94,21
+7,Santa Cruz,2,Femenino,61,2
+1,Chuquisaca,2,Femenino,44,86
+3,Cochabamba,1,Masculino,96,16
+7,Santa Cruz,1,Masculino,97,11
+9,Pando,2,Femenino,84,4
+4,Oruro,2,Femenino,28,116
+3,Cochabamba,2,Femenino,86,132
+4,Oruro,1,Masculino,87,2
+1,Chuquisaca,1,Masculino,54,68
+9,Pando,2,Femenino,87,1
+4,Oruro,2,Femenino,25,109
+1,Chuquisaca,2,Femenino,21,26
+3,Cochabamba,2,Femenino,92,95
+4,Oruro,2,Femenino,80,27
+6,Tarija,1,Masculino,92,21
+7,Santa Cruz,2,Femenino,90,86
+1,Chuquisaca,1,Masculino,51,49
+1,Chuquisaca,1,Masculino,45,77
+2,La Paz,1,Masculino,32,710
+1,Chuquisaca,1,Masculino,48,69
+7,Santa Cruz,2,Femenino,93,41
+6,Tarija,1,Masculino,95,11
+6,Tarija,2,Femenino,59,48
+2,La Paz,1,Masculino,35,594
+7,Santa Cruz,2,Femenino,67,1
+4,Oruro,2,Femenino,54,31
+4,Oruro,1,Masculino,90,10
+6,Tarija,2,Femenino,39,119
+3,Cochabamba,2,Femenino,89,149
+7,Santa Cruz,2,Femenino,87,75
+1,Chuquisaca,1,Masculino,25,351
+9,Pando,2,Femenino,90,3
+4,Oruro,2,Femenino,57,22
+6,Tarija,2,Femenino,36,137
+2,La Paz,2,Femenino,121,1
+5,Potosí,2,Femenino,74,60
+1,Chuquisaca,2,Femenino,53,42
+8,Beni,2,Femenino,52,39
+9,Pando,2,Femenino,29,30
+3,Cochabamba,2,Femenino,95,46
+9,Pando,1,Masculino,88,2
+8,Beni,2,Femenino,55,55
+9,Pando,1,Masculino,85,4
+2,La Paz,2,Femenino,95,49
+4,Oruro,2,Femenino,83,22
+9,Pando,2,Femenino,52,9
+5,Potosí,1,Masculino,107,1
+8,Beni,1,Masculino,108,1
+6,Tarija,1,Masculino,101,2
+9,Pando,1,Masculino,82,3
+1,Chuquisaca,2,Femenino,76,40
+5,Potosí,2,Femenino,51,56
+4,Oruro,2,Femenino,86,27
+5,Potosí,2,Femenino,54,81
+6,Tarija,1,Masculino,98,9
+7,Santa Cruz,2,Femenino,96,18
+8,Beni,1,Masculino,88,24
+1,Chuquisaca,2,Femenino,79,46
+5,Potosí,1,Masculino,84,45
+9,Pando,2,Femenino,26,40
+5,Potosí,2,Femenino,48,62
+8,Beni,1,Masculino,85,15
+8,Beni,2,Femenino,49,70
+4,Oruro,2,Femenino,89,16
+6,Tarija,2,Femenino,97,9
+6,Tarija,2,Femenino,94,34
+1,Chuquisaca,2,Femenino,24,246
+1,Chuquisaca,1,Masculino,83,25
+5,Potosí,2,Femenino,77,74
+9,Pando,2,Femenino,81,6
+6,Tarija,2,Femenino,91,42
+1,Chuquisaca,1,Masculino,109,2
+5,Potosí,2,Femenino,83,91
+1,Chuquisaca,1,Masculino,106,1
+9,Pando,2,Femenino,55,15
+1,Chuquisaca,2,Femenino,47,50
+8,Beni,2,Femenino,78,9
+1,Chuquisaca,2,Femenino,50,58
+5,Potosí,2,Femenino,80,108
+9,Pando,1,Masculino,91,3
+8,Beni,2,Femenino,81,11
+1,Chuquisaca,1,Masculino,86,29
+9,Pando,2,Femenino,58,11
+9,Pando,1,Masculino,27,113
+3,Cochabamba,1,Masculino,29,808
+7,Santa Cruz,1,Masculino,27,1544
+5,Potosí,1,Masculino,55,74
+8,Beni,1,Masculino,50,97
+1,Chuquisaca,2,Femenino,111,1
+9,Pando,1,Masculino,24,144
+5,Potosí,1,Masculino,75,65
+5,Potosí,1,Masculino,49,84
+2,La Paz,1,Masculino,96,14
+8,Beni,1,Masculino,27,296
+6,Tarija,2,Femenino,100,6
+9,Pando,1,Masculino,30,90
+5,Potosí,1,Masculino,52,77
+2,La Paz,2,Femenino,86,141
+8,Beni,1,Masculino,53,70
+3,Cochabamba,1,Masculino,58,140
+8,Beni,1,Masculino,79,8
+2,La Paz,2,Femenino,92,93
+9,Pando,1,Masculino,59,17
+2,La Paz,2,Femenino,89,134
+9,Pando,1,Masculino,56,20
+5,Potosí,2,Femenino,45,87
+8,Beni,2,Femenino,23,112
+7,Santa Cruz,1,Masculino,30,1409
+7,Santa Cruz,1,Masculino,33,1297
+5,Potosí,1,Masculino,42,115
+2,La Paz,2,Femenino,90,165
+8,Beni,2,Femenino,24,209
+8,Beni,1,Masculino,60,1
+6,Tarija,2,Femenino,93,33
+2,La Paz,2,Femenino,96,39
+6,Tarija,2,Femenino,90,70
+2,La Paz,2,Femenino,93,84
+8,Beni,2,Femenino,27,199
+7,Santa Cruz,1,Masculino,34,1241
+8,Beni,1,Masculino,86,7
+7,Santa Cruz,1,Masculino,37,949
+8,Beni,1,Masculino,83,8
+1,Chuquisaca,2,Femenino,101,6
+1,Chuquisaca,2,Femenino,81,60
+2,La Paz,2,Femenino,70,56
+6,Tarija,2,Femenino,96,10
+1,Chuquisaca,1,Masculino,111,1
+9,Pando,1,Masculino,26,120
+8,Beni,2,Femenino,53,44
+5,Potosí,1,Masculino,71,29
+5,Potosí,1,Masculino,45,121
+1,Chuquisaca,2,Femenino,72,27
+3,Cochabamba,1,Masculino,25,998
+8,Beni,2,Femenino,56,45
+9,Pando,1,Masculino,23,72
+7,Santa Cruz,1,Masculino,63,2
+8,Beni,1,Masculino,92,7
+1,Chuquisaca,2,Femenino,75,41
+7,Santa Cruz,2,Femenino,30,1046
+2,La Paz,2,Femenino,99,22
+7,Santa Cruz,1,Masculino,66,1
+8,Beni,1,Masculino,89,11
+9,Pando,1,Masculino,49,26
+1,Chuquisaca,2,Femenino,78,55
+8,Beni,2,Femenino,30,164
+5,Potosí,1,Masculino,48,97
+5,Potosí,1,Masculino,51,71
+7,Santa Cruz,1,Masculino,40,955
+3,Cochabamba,1,Masculino,28,861
+2,La Paz,1,Masculino,71,45
+7,Santa Cruz,1,Masculino,92,19
+3,Cochabamba,1,Masculino,54,174
+7,Santa Cruz,2,Femenino,33,915
+8,Beni,1,Masculino,28,312
+7,Santa Cruz,1,Masculino,95,21
+7,Santa Cruz,2,Femenino,36,690
+2,La Paz,2,Femenino,35,465
+2,La Paz,1,Masculino,94,31
+3,Cochabamba,1,Masculino,34,611
+8,Beni,1,Masculino,25,347
+8,Beni,1,Masculino,22,59
+2,La Paz,1,Masculino,91,60
+2,La Paz,2,Femenino,38,346
+7,Santa Cruz,2,Femenino,39,592
+3,Cochabamba,1,Masculino,31,809
+7,Santa Cruz,1,Masculino,72,77
+3,Cochabamba,1,Masculino,57,139
+8,Beni,2,Femenino,21,24
+3,Cochabamba,1,Masculino,60,1
+4,Oruro,1,Masculino,48,49
+1,Chuquisaca,2,Femenino,110,1
+2,La Paz,1,Masculino,100,12
+6,Tarija,1,Masculino,30,299
+8,Beni,1,Masculino,31,270
+4,Oruro,1,Masculino,22,47
+2,La Paz,1,Masculino,97,17
+7,Santa Cruz,1,Masculino,98,16
+3,Cochabamba,2,Femenino,24,649
+6,Tarija,1,Masculino,27,396
+4,Oruro,1,Masculino,25,202
+8,Beni,1,Masculino,57,92
+7,Santa Cruz,1,Masculino,101,4
+3,Cochabamba,2,Femenino,27,691
+8,Beni,1,Masculino,54,112
+9,Pando,2,Femenino,77,5
+3,Cochabamba,2,Femenino,30,663
+3,Cochabamba,1,Masculino,89,55
+6,Tarija,1,Masculino,33,276
+4,Oruro,1,Masculino,77,14
+7,Santa Cruz,2,Femenino,91,83
+1,Chuquisaca,1,Masculino,21,30
+5,Potosí,2,Femenino,76,70
+9,Pando,1,Masculino,87,2
+2,La Paz,1,Masculino,39,420
+4,Oruro,2,Femenino,21,12
+3,Cochabamba,2,Femenino,33,604
+4,Oruro,1,Masculino,51,48
+7,Santa Cruz,2,Femenino,94,35
+5,Potosí,2,Femenino,102,3
+2,La Paz,1,Masculino,33,708
+1,Chuquisaca,1,Masculino,47,68
+9,Pando,2,Femenino,51,11
+3,Cochabamba,1,Masculino,86,40
+3,Cochabamba,2,Femenino,53,173
+2,La Paz,1,Masculino,36,534
+4,Oruro,1,Masculino,54,32
+1,Chuquisaca,1,Masculino,44,80
+4,Oruro,1,Masculino,57,25
+9,Pando,2,Femenino,54,13
+6,Tarija,1,Masculino,36,202
+9,Pando,2,Femenino,57,9
+7,Santa Cruz,2,Femenino,71,47
+3,Cochabamba,1,Masculino,92,22
+5,Potosí,2,Femenino,79,97
+4,Oruro,2,Femenino,50,33
+5,Potosí,2,Femenino,105,2
+3,Cochabamba,2,Femenino,62,1
+4,Oruro,1,Masculino,80,7
+6,Tarija,1,Masculino,59,76
+4,Oruro,2,Femenino,47,40
+9,Pando,2,Femenino,80,3
+9,Pando,2,Femenino,83,2
+6,Tarija,2,Femenino,29,220
+2,La Paz,2,Femenino,32,546
+4,Oruro,1,Masculino,83,4
+4,Oruro,1,Masculino,86,6
+2,La Paz,1,Masculino,65,1
+6,Tarija,2,Femenino,26,241
+7,Santa Cruz,2,Femenino,97,12
+9,Pando,2,Femenino,86,5
+3,Cochabamba,2,Femenino,56,128
+4,Oruro,2,Femenino,24,123
+9,Pando,1,Masculino,36,89
+8,Beni,1,Masculino,102,1
+1,Chuquisaca,2,Femenino,62,1
+8,Beni,2,Femenino,46,68
+1,Chuquisaca,2,Femenino,88,54
+7,Santa Cruz,1,Masculino,53,467
+9,Pando,1,Masculino,33,92
+8,Beni,1,Masculino,99,3
+7,Santa Cruz,1,Masculino,56,423
+5,Potosí,1,Masculino,35,176
+4,Oruro,1,Masculino,32,156
+3,Cochabamba,1,Masculino,44,290
+2,La Paz,2,Femenino,45,252
+2,La Paz,1,Masculino,84,75
+7,Santa Cruz,2,Femenino,49,335
+2,La Paz,2,Femenino,48,230
+3,Cochabamba,1,Masculino,41,379
+7,Santa Cruz,1,Masculino,79,58
+3,Cochabamba,1,Masculino,38,459
+7,Santa Cruz,2,Femenino,46,414
+2,La Paz,1,Masculino,81,58
+7,Santa Cruz,1,Masculino,82,73
+2,La Paz,2,Femenino,22,60
+2,La Paz,1,Masculino,107,2
+7,Santa Cruz,1,Masculino,85,46
+2,La Paz,2,Femenino,25,723
+7,Santa Cruz,2,Femenino,23,632
+8,Beni,1,Masculino,38,191
+3,Cochabamba,1,Masculino,73,52
+7,Santa Cruz,2,Femenino,75,70
+5,Potosí,1,Masculino,26,345
+3,Cochabamba,1,Masculino,70,41
+7,Santa Cruz,1,Masculino,108,1
+8,Beni,1,Masculino,44,128
+4,Oruro,1,Masculino,35,110
+8,Beni,1,Masculino,47,113
+4,Oruro,1,Masculino,38,116
+2,La Paz,2,Femenino,77,109
+7,Santa Cruz,2,Femenino,78,91
+3,Cochabamba,2,Femenino,37,335
+8,Beni,1,Masculino,41,171
+7,Santa Cruz,2,Femenino,52,341
+2,La Paz,2,Femenino,51,202
+3,Cochabamba,1,Masculino,47,241
+2,La Paz,2,Femenino,54,190
+7,Santa Cruz,2,Femenino,55,312
+9,Pando,1,Masculino,96,1
+5,Potosí,2,Femenino,85,91
+3,Cochabamba,1,Masculino,98,5
+3,Cochabamba,2,Femenino,42,295
+2,La Paz,2,Femenino,26,711
+3,Cochabamba,1,Masculino,95,9
+1,Chuquisaca,1,Masculino,101,2
+5,Potosí,1,Masculino,57,67
+8,Beni,1,Masculino,32,242
+4,Oruro,2,Femenino,36,58
+3,Cochabamba,1,Masculino,104,2
+8,Beni,1,Masculino,35,201
+5,Potosí,2,Femenino,24,219
+3,Cochabamba,1,Masculino,101,2
+4,Oruro,2,Femenino,33,100
+5,Potosí,2,Femenino,21,12
+9,Pando,1,Masculino,35,71
+8,Beni,1,Masculino,55,94
+2,La Paz,1,Masculino,21,59
+3,Cochabamba,2,Femenino,71,57
+8,Beni,1,Masculino,58,66
+7,Santa Cruz,1,Masculino,22,198
+4,Oruro,2,Femenino,30,98
+9,Pando,1,Masculino,32,76
+5,Potosí,1,Masculino,54,54
+4,Oruro,1,Masculino,89,11
+2,La Paz,1,Masculino,24,888
+4,Oruro,1,Masculino,92,5
+2,La Paz,1,Masculino,27,845
+7,Santa Cruz,1,Masculino,28,1438
+5,Potosí,2,Femenino,27,201
+1,Chuquisaca,2,Femenino,97,9
+5,Potosí,2,Femenino,30,176
+3,Cochabamba,2,Femenino,94,57
+5,Potosí,1,Masculino,86,39
+4,Oruro,1,Masculino,95,2
+2,La Paz,1,Masculino,30,752
+4,Oruro,1,Masculino,98,2
+3,Cochabamba,2,Femenino,97,21
+8,Beni,2,Femenino,25,213
+9,Pando,1,Masculino,38,82
+2,La Paz,1,Masculino,50,261
+8,Beni,1,Masculino,87,6
+3,Cochabamba,2,Femenino,100,13
+8,Beni,2,Femenino,28,184
+7,Santa Cruz,1,Masculino,51,580
+1,Chuquisaca,2,Femenino,77,44
+4,Oruro,2,Femenino,59,25
+1,Chuquisaca,2,Femenino,103,2
+8,Beni,2,Femenino,31,154
+3,Cochabamba,2,Femenino,74,75
+1,Chuquisaca,2,Femenino,100,13
+9,Pando,2,Femenino,28,44
+7,Santa Cruz,1,Masculino,25,1798
+5,Potosí,1,Masculino,83,68
+3,Cochabamba,2,Femenino,48,211
+3,Cochabamba,1,Masculino,107,1
+4,Oruro,1,Masculino,49,39
+8,Beni,2,Femenino,22,22
+6,Tarija,2,Femenino,95,15
+2,La Paz,1,Masculino,38,528
+1,Chuquisaca,2,Femenino,109,1
+8,Beni,1,Masculino,75,10
+3,Cochabamba,1,Masculino,84,64
+8,Beni,1,Masculino,78,18
+3,Cochabamba,1,Masculino,81,55
+5,Potosí,1,Masculino,34,197
+1,Chuquisaca,2,Femenino,89,101
+4,Oruro,1,Masculino,72,6
+3,Cochabamba,2,Femenino,25,719
+7,Santa Cruz,1,Masculino,39,892
+5,Potosí,1,Masculino,37,141
+1,Chuquisaca,2,Femenino,86,44
+2,La Paz,1,Masculino,44,336
+6,Tarija,2,Femenino,98,9
+3,Cochabamba,2,Femenino,45,211
+8,Beni,2,Femenino,51,45
+4,Oruro,1,Masculino,78,12
+3,Cochabamba,2,Femenino,77,93
+9,Pando,1,Masculino,44,39
+8,Beni,1,Masculino,81,10
+2,La Paz,1,Masculino,70,38
+5,Potosí,1,Masculino,40,123
+7,Santa Cruz,1,Masculino,45,713
+9,Pando,1,Masculino,41,54
+1,Chuquisaca,2,Femenino,57,45
+8,Beni,1,Masculino,107,1
+5,Potosí,1,Masculino,43,119
+7,Santa Cruz,1,Masculino,48,621
+3,Cochabamba,2,Femenino,51,146
+2,La Paz,2,Femenino,37,383
+4,Oruro,2,Femenino,42,51
+8,Beni,2,Femenino,45,74
+3,Cochabamba,2,Femenino,54,156
+2,La Paz,1,Masculino,47,290
+4,Oruro,2,Femenino,45,27
+8,Beni,1,Masculino,104,1
+4,Oruro,2,Femenino,39,63
+1,Chuquisaca,2,Femenino,80,65
+8,Beni,2,Femenino,48,83
+6,Tarija,2,Femenino,101,3
+7,Santa Cruz,1,Masculino,71,65
+8,Beni,1,Masculino,84,11
+4,Oruro,1,Masculino,75,8
+2,La Paz,1,Masculino,73,43
+3,Cochabamba,1,Masculino,110,1
+1,Chuquisaca,2,Femenino,83,65
+4,Oruro,2,Femenino,96,8
+8,Beni,1,Masculino,95,4
+7,Santa Cruz,2,Femenino,106,2
+3,Cochabamba,2,Femenino,108,2
+2,La Paz,2,Femenino,105,2
+9,Pando,1,Masculino,75,3
+9,Pando,1,Masculino,72,2
+5,Potosí,2,Femenino,61,1
+6,Tarija,2,Femenino,78,76
+8,Beni,2,Femenino,39,82
+4,Oruro,2,Femenino,99,6
+2,La Paz,2,Femenino,108,3
+8,Beni,2,Femenino,42,84
+9,Pando,2,Femenino,36,34
+6,Tarija,2,Femenino,75,66
+4,Oruro,2,Femenino,73,13
+9,Pando,1,Masculino,98,1
+5,Potosí,2,Femenino,38,111
+6,Tarija,2,Femenino,55,81
+9,Pando,2,Femenino,39,20
+9,Pando,2,Femenino,42,14
+1,Chuquisaca,1,Masculino,99,2
+8,Beni,1,Masculino,98,4
+5,Potosí,1,Masculino,97,9
+6,Tarija,2,Femenino,52,73
+8,Beni,1,Masculino,101,1
+5,Potosí,1,Masculino,100,7
+1,Chuquisaca,1,Masculino,96,4
+1,Chuquisaca,2,Femenino,37,80
+9,Pando,2,Femenino,45,11
+5,Potosí,2,Femenino,90,173
+6,Tarija,2,Femenino,81,126
+1,Chuquisaca,2,Femenino,40,76
+9,Pando,1,Masculino,101,1
+8,Beni,2,Femenino,71,6
+5,Potosí,1,Masculino,123,1
+1,Chuquisaca,1,Masculino,93,10
+5,Potosí,2,Femenino,67,1
+8,Beni,2,Femenino,94,4
+5,Potosí,2,Femenino,93,55
+6,Tarija,2,Femenino,84,84
+6,Tarija,1,Masculino,45,137
+7,Santa Cruz,1,Masculino,96,12
+7,Santa Cruz,2,Femenino,37,629
+6,Tarija,1,Masculino,42,153
+7,Santa Cruz,2,Femenino,34,772
+5,Potosí,1,Masculino,38,157
+7,Santa Cruz,2,Femenino,40,620
+6,Tarija,1,Masculino,39,182
+1,Chuquisaca,2,Femenino,23,142
+6,Tarija,1,Masculino,48,126
+9,Pando,2,Femenino,79,5
+7,Santa Cruz,2,Femenino,43,509
+2,La Paz,1,Masculino,101,9
+3,Cochabamba,1,Masculino,24,805
+6,Tarija,1,Masculino,74,58
+1,Chuquisaca,2,Femenino,26,232
+5,Potosí,2,Femenino,101,6
+5,Potosí,2,Femenino,104,2
+9,Pando,2,Femenino,82,8
+6,Tarija,1,Masculino,71,31
+3,Cochabamba,1,Masculino,21,77
+7,Santa Cruz,2,Femenino,66,1
+1,Chuquisaca,1,Masculino,59,46
+7,Santa Cruz,1,Masculino,99,9
+2,La Paz,2,Femenino,71,70
+1,Chuquisaca,1,Masculino,85,35
+8,Beni,2,Femenino,79,11
+6,Tarija,2,Femenino,38,138
+7,Santa Cruz,1,Masculino,102,7
+7,Santa Cruz,2,Femenino,69,1
+2,La Paz,1,Masculino,104,3
+1,Chuquisaca,1,Masculino,33,173
+2,La Paz,2,Femenino,74,74
+3,Cochabamba,1,Masculino,27,836
+7,Santa Cruz,2,Femenino,95,31
+1,Chuquisaca,1,Masculino,30,221
+8,Beni,2,Femenino,108,1
+3,Cochabamba,1,Masculino,53,159
+6,Tarija,2,Femenino,44,90
+6,Tarija,1,Masculino,77,56
+2,La Paz,2,Femenino,94,71
+3,Cochabamba,1,Masculino,50,231
+6,Tarija,1,Masculino,100,1
+6,Tarija,2,Femenino,41,98
+7,Santa Cruz,2,Femenino,98,19
+2,La Paz,2,Femenino,97,32
+7,Santa Cruz,2,Femenino,72,67
+1,Chuquisaca,1,Masculino,53,64
+6,Tarija,1,Masculino,103,3
+3,Cochabamba,1,Masculino,30,780
+1,Chuquisaca,1,Masculino,56,61
+3,Cochabamba,2,Femenino,96,37
+8,Beni,1,Masculino,30,322
+4,Oruro,2,Femenino,84,26
+7,Santa Cruz,2,Femenino,31,1019
+7,Santa Cruz,1,Masculino,64,1
+4,Oruro,2,Femenino,58,23
+3,Cochabamba,2,Femenino,70,60
+7,Santa Cruz,1,Masculino,84,54
+4,Oruro,2,Femenino,61,1
+3,Cochabamba,2,Femenino,90,187
+7,Santa Cruz,1,Masculino,87,53
+7,Santa Cruz,2,Femenino,54,332
+7,Santa Cruz,2,Femenino,60,6
+7,Santa Cruz,1,Masculino,93,33
+8,Beni,1,Masculino,59,71
+3,Cochabamba,2,Femenino,99,14
+7,Santa Cruz,2,Femenino,83,90
+4,Oruro,2,Femenino,87,18
+7,Santa Cruz,2,Femenino,57,251
+1,Chuquisaca,2,Femenino,102,1
+8,Beni,1,Masculino,36,179
+4,Oruro,2,Femenino,90,37
+8,Beni,1,Masculino,39,203
+2,La Paz,1,Masculino,25,1040
+6,Tarija,1,Masculino,22,81
+5,Potosí,1,Masculino,21,24
+2,La Paz,2,Femenino,91,125
+5,Potosí,2,Femenino,58,69
+4,Oruro,2,Femenino,93,9
+7,Santa Cruz,2,Femenino,89,93
+6,Tarija,1,Masculino,28,373
+1,Chuquisaca,1,Masculino,42,123
+6,Tarija,1,Masculino,25,491
+5,Potosí,2,Femenino,84,95
+6,Tarija,1,Masculino,51,108
+9,Pando,2,Femenino,56,12
+2,La Paz,2,Femenino,88,155
+2,La Paz,2,Femenino,85,137
+9,Pando,2,Femenino,59,9
+7,Santa Cruz,2,Femenino,86,57
+5,Potosí,2,Femenino,81,105
+9,Pando,1,Masculino,92,4
+1,Chuquisaca,1,Masculino,39,129
+7,Santa Cruz,2,Femenino,92,65
+9,Pando,2,Femenino,91,3
+6,Tarija,1,Masculino,80,79
+1,Chuquisaca,1,Masculino,36,140
+5,Potosí,2,Femenino,87,82
+6,Tarija,1,Masculino,57,91
+6,Tarija,2,Femenino,24,213
+9,Pando,2,Femenino,85,7
+9,Pando,2,Femenino,88,1
+5,Potosí,2,Femenino,110,2
+6,Tarija,2,Femenino,21,11
+6,Tarija,1,Masculino,54,90
+3,Cochabamba,2,Femenino,59,126
+7,Santa Cruz,2,Femenino,100,9
+8,Beni,2,Femenino,82,13
+6,Tarija,2,Femenino,35,141
+5,Potosí,2,Femenino,44,84
+4,Oruro,2,Femenino,79,18
+6,Tarija,1,Masculino,91,22
+8,Beni,2,Femenino,85,16
+4,Oruro,2,Femenino,53,28
+6,Tarija,2,Femenino,32,200
+1,Chuquisaca,1,Masculino,82,32
+5,Potosí,1,Masculino,77,56
+9,Pando,1,Masculino,55,27
+5,Potosí,1,Masculino,74,38
+1,Chuquisaca,2,Femenino,43,72
+1,Chuquisaca,1,Masculino,79,30
+6,Tarija,1,Masculino,94,21
+5,Potosí,2,Femenino,41,100
+8,Beni,2,Femenino,59,29
+5,Potosí,1,Masculino,80,81
+9,Pando,1,Masculino,52,21
+3,Cochabamba,2,Femenino,85,130
+6,Tarija,2,Femenino,58,69
+1,Chuquisaca,2,Femenino,46,60
+1,Chuquisaca,1,Masculino,105,1
+3,Cochabamba,2,Femenino,88,171
+9,Pando,1,Masculino,78,6
+1,Chuquisaca,2,Femenino,49,52
+4,Oruro,2,Femenino,76,12
+6,Tarija,1,Masculino,88,44
+1,Chuquisaca,1,Masculino,102,2
+4,Oruro,2,Femenino,56,23
+3,Cochabamba,2,Femenino,91,124
+1,Chuquisaca,1,Masculino,50,64
+9,Pando,1,Masculino,58,23
+9,Pando,2,Femenino,48,13
+5,Potosí,1,Masculino,103,3
+7,Santa Cruz,1,Masculino,31,1480
+6,Tarija,1,Masculino,97,10
+5,Potosí,2,Femenino,70,50
+1,Chuquisaca,1,Masculino,76,26
+8,Beni,2,Femenino,88,10
+9,Pando,1,Masculino,84,6
+4,Oruro,2,Femenino,82,26
+5,Potosí,2,Femenino,73,63
+1,Chuquisaca,1,Masculino,73,26
+9,Pando,2,Femenino,22,12
+8,Beni,2,Femenino,91,17
+9,Pando,1,Masculino,81,5
+4,Oruro,2,Femenino,85,22
+6,Tarija,2,Femenino,87,57
+9,Pando,2,Femenino,25,49
+5,Potosí,2,Femenino,47,61
+5,Potosí,2,Femenino,50,73
+8,Beni,2,Femenino,26,197
+9,Pando,1,Masculino,53,13
+8,Beni,1,Masculino,56,82
+4,Oruro,1,Masculino,23,111
+1,Chuquisaca,2,Femenino,105,3
+5,Potosí,1,Masculino,81,59
+5,Potosí,1,Masculino,78,57
+7,Santa Cruz,1,Masculino,36,1034
+5,Potosí,2,Femenino,22,22
+3,Cochabamba,1,Masculino,35,604
+9,Pando,2,Femenino,23,29
+3,Cochabamba,1,Masculino,32,816
+8,Beni,1,Masculino,82,19
+1,Chuquisaca,2,Femenino,85,59
+1,Chuquisaca,2,Femenino,82,61
+7,Santa Cruz,1,Masculino,59,309
+2,La Paz,2,Femenino,28,638
+6,Tarija,1,Masculino,31,296
+4,Oruro,1,Masculino,52,28
+2,La Paz,1,Masculino,64,1
+4,Oruro,1,Masculino,26,223
+7,Santa Cruz,2,Femenino,26,1169
+1,Chuquisaca,1,Masculino,22,58
+3,Cochabamba,2,Femenino,28,679
+3,Cochabamba,1,Masculino,64,1
+2,La Paz,1,Masculino,58,179
+4,Oruro,1,Masculino,29,158
+7,Santa Cruz,2,Femenino,29,1070
+3,Cochabamba,2,Femenino,31,657
+2,La Paz,1,Masculino,87,62
+6,Tarija,1,Masculino,34,273
+7,Santa Cruz,1,Masculino,91,30
+3,Cochabamba,1,Masculino,90,58
+4,Oruro,2,Femenino,22,21
+3,Cochabamba,2,Femenino,34,497
+5,Potosí,1,Masculino,46,96
+2,La Paz,2,Femenino,34,486
+4,Oruro,1,Masculino,81,10
+7,Santa Cruz,2,Femenino,32,913
+2,La Paz,2,Femenino,31,600
+3,Cochabamba,1,Masculino,87,37
+9,Pando,1,Masculino,21,9
+6,Tarija,1,Masculino,40,204
+4,Oruro,1,Masculino,55,26
+8,Beni,1,Masculino,24,322
+7,Santa Cruz,2,Femenino,35,667
+2,La Paz,1,Masculino,93,44
+3,Cochabamba,1,Masculino,93,30
+3,Cochabamba,2,Femenino,57,154
+5,Potosí,1,Masculino,23,140
+6,Tarija,1,Masculino,37,188
+2,La Paz,2,Femenino,57,189
+4,Oruro,1,Masculino,58,26
+2,La Paz,1,Masculino,90,82
+8,Beni,1,Masculino,21,32
+7,Santa Cruz,1,Masculino,88,41
